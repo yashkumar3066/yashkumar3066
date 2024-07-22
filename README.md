@@ -12,7 +12,7 @@
 📮&nbsp;You can contact me at yashkmar3066@gmail.com !
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yk3066&label=Profile%20views&color=0e75b6&style=flat" alt="yk3066" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumar3066&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumar3066" /> </p>
 
 
 ---
@@ -65,11 +65,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yk3066&bg_color=011637&color=e4e2f2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashkumar3066&bg_color=011637&color=e4e2f2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
-<a href="https://github.com/yk3066">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yk3066&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yk3066&layout=compact&langs_count=8&theme=vue-dark"/>
+<a href="https://github.com/yashkumar3066">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashkumar3066&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashkumar3066&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
 
@@ -77,7 +77,7 @@
 <hr>
 <h2 align="center">Github Trophies</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yk3066&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=yashkumar3066&theme=darkhub">
 </p>
 </br>  
 <hr>
