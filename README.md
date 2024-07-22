@@ -9,7 +9,7 @@
 🎓&nbsp;I am a final year in Electronics and Communication at IIIT Dharwad.\
 📱&nbsp; Silicon Validation and RTL & Logic Design. Exploring and Learning GPU, Embedded Systems, SoC Design and more.\
 🎸&nbsp;I am a Musician who happens to compose music and play guitar and drums suprisingly well.\
-📮&nbsp;You can contact me with yashkmar3066@ on various socials!
+📮&nbsp;You can contact me with @yashkmar3066 on various socials!
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumar3066&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumar3066" /> </p>
