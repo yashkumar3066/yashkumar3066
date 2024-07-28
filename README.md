@@ -4,7 +4,7 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;Me Who ?
+### 🏎 &nbsp;Me Who ?
 
 🎓&nbsp;I am a final year engineering student in Electronics and Communications at IIIT Dharwad.\
 👨‍💻&nbsp;Silicon Validation and RTL & Logic Design. Exploring and Learning GPU, Embedded Systems, SoC Design and more.\
