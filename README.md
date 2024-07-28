@@ -6,8 +6,8 @@
 
 ### 👨🏻‍💻 &nbsp;Me Who ?
 
-🎓&nbsp;I am a final year in Electronics and Communication at IIIT Dharwad.\
-📱&nbsp; Silicon Validation and RTL & Logic Design. Exploring and Learning GPU, Embedded Systems, SoC Design and more.\
+🎓&nbsp;I am a final year engineering student in Electronics and Communications at IIIT Dharwad.\
+👨‍💻&nbsp;Silicon Validation and RTL & Logic Design. Exploring and Learning GPU, Embedded Systems, SoC Design and more.\
 🎸&nbsp;I am a Musician who happens to compose music and play guitar and drums suprisingly well.\
 📮&nbsp;You can contact me with @yashkmar3066 on various socials!
 
