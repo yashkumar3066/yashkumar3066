@@ -6,8 +6,8 @@
 
 ### 🏎 &nbsp;Me Who ?
 
-🎓&nbsp;I am a final year engineering student in Electronics and Communications at IIIT Dharwad.\
-👨‍💻&nbsp;Silicon Validation and RTL & Logic Design. Exploring and Learning GPU, Embedded Systems, SoC Design and more.\
+🎓&nbsp;I am a ASIC PD Intern @analogdevicesinc with a BTech in Electronics and Communications from IIIT Dharwad.\
+👨‍💻&nbsp;Silicon Validation, Physical Design, RTL & Logic Design. Exploring and Learning GPGPU, FPGA, Embedded Systems, SoC Design and more.\
 🎸&nbsp;I am a Musician who happens to compose music and play guitar and drums suprisingly well.\
 📮&nbsp;You can contact me with @yashkmar3066 on various socials!
 
@@ -63,9 +63,6 @@
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=yashkumar3066&bg_color=011637&color=e4e2f2&line=fafafa&point=f4f2f2&area=true&hide_border=true" width='702.21' />
 
 <a href="https://github.com/yashkumar3066">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashkumar3066&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
