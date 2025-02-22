@@ -6,7 +6,7 @@
 
 ### 🏎 &nbsp;Me Who ?
 
-🎓&nbsp;I am a ASIC PD Intern @analogdevicesinc with a BTech in Electronics and Communications from IIIT Dharwad.\
+🎓&nbsp;I am a ASIC PD Intern (Anaog Devices Inc.) with a BTech in Electronics and Communications from IIIT Dharwad.\
 👨‍💻&nbsp;Silicon Validation, Physical Design, RTL & Logic Design. Exploring and Learning GPGPU, FPGA, Embedded Systems, SoC Design and more.\
 🎸&nbsp;I am a Musician who happens to compose music and play guitar and drums suprisingly well.\
 📮&nbsp;You can contact me with @yashkmar3066 on various socials!
