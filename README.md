@@ -63,20 +63,16 @@
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
-
+<p align="center">
 <a href="https://github.com/yashkumar3066">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashkumar3066&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashkumar3066&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashkumar3066&theme=darkhub">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumar3066&" alt="yashkumar3066" />
 </a>
 </p>
-
-
-<hr>
-<h2 align="center">Github Trophies</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashkumar3066&theme=darkhub">
 </p>
-</br>  
-<hr>
+
+
 
 
